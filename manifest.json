@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Yugioh Extension",
   "version": "1.0",
-  "description": "Logs content of element with class 'nome-auxiliar'",
+  "description": "Verifica preços de cartas no Cardmarket e TCGPlayer",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
